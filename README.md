@@ -42,3 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md)
 
 ## Code of Conduct
 This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
+## Contributing
+We welcome contributions! Please read our [Contributing Guide](./CONTRIBUTING.md) before getting started.
