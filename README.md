@@ -29,9 +29,15 @@ We want you to join the adventure! Whether it’s adding new Pokémon API's, imp
 
 **Let’s create a space where anyone, no matter how old, can pause, smile, and remember why Pokémon captured our hearts in the first place.**
 
+## 🤔 How It Works?
+
+**Poké-Pause** is a Chrome Extension designed to bring you **random Pokémon and fun facts** whenever you need a quick stress-relief break. It’s inspired by childhood memories and built to be **simple, playful, and educational**.  
+
+The extension fetches Pokémon data using the **PokéAPI** and displays them in a friendly, visually appealing popup.  
+
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
 
 
 ## Code of Conduct
