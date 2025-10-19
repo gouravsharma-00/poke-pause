@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Poké-Pause | take a quick pause with a Pokémon",
+  "version": "1.0",
+  "description": "Open-Source can be tough, take a break from debugging and read interesting facts about Pokémon.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://pokeapi.co/*"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "author": "Gourav Sharma",
+  "homepage_url": "https://www.youtube.com/@TheIceDev"
+}
