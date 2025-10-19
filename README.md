@@ -28,3 +28,11 @@ These tiny bursts of fun aren’t just distractions—they’re reminders of the
 We want you to join the adventure! Whether it’s adding new Pokémon API's, improving facts, or making the extension even more fun, every contribution helps make Poké-Pause a joyful experience for all ages.
 
 **Let’s create a space where anyone, no matter how old, can pause, smile, and remember why Pokémon captured our hearts in the first place.**
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+
+## Code of Conduct
+This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
