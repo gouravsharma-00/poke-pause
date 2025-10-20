@@ -42,6 +42,5 @@ If you have any questions, suggestions, or just want to say hi 👋 —
 feel free to reach out:
 
 - 💼 **LinkedIn:** [Gourav Sharma](https://www.linkedin.com/in/dev-gourav-sharma/)  
-- 🌐 **Community:** [theicedev](https://instagram.com/theicedev)
 
 We love seeing people contribute — no matter your skill level! 💖
